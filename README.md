@@ -26,6 +26,14 @@ I direct the art: concept images first, then the 3D game is tuned to match them 
 
 ![Characters](docs/characters.jpg)
 
+## 3D models
+
+Characters and props are generated with Meshy (image to 3D), then rigged, cleaned up and placed in the game: vintage cars and trams in the streets, Thonet chairs, club tables and chess clocks indoors.
+
+| | |
+|---|---|
+| ![Vienna tram at night](docs/tram.jpg) | ![Café mezzanine with piano](docs/cafe.jpg) |
+
 ## Under the hood
 
 About 14,000 lines of JavaScript, no framework:
@@ -41,6 +49,6 @@ Built with Claude Code as a pair programmer: I design the game, the systems and 
 
 ## Credits
 
-Stockfish (GPL-3), chess.js (BSD-2), Three.js (MIT), cburnett pieces, Lichess puzzles (CC0), 3D assets by Quaternius and Kenney (CC0).
+Stockfish (GPL-3), chess.js (BSD-2), Three.js (MIT), cburnett pieces, Lichess puzzles (CC0), 3D assets by Quaternius and Kenney (CC0), characters and props generated with Meshy.
 
 © 2026 Roman M'Barali. All rights reserved.
