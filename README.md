@@ -58,7 +58,7 @@ The game was built in about two weeks, from November 10 to November 24, 2026. I 
 - **Concept images first, then the 3D is tuned to match.** I chose a style from a form of 15 indie styles, then three test images, then a second form to set the amount of black, the faces and the palette. The game was then adjusted to the images, not the other way round.
 - **Characters: from code to Meshy.** The first characters were built in code. My honest rating was 4/10. So each character was drawn by ChatGPT (front, side, back), turned into 3D with Meshy image-to-3D, rigged and animated, then placed in the game. For the passers-by, a trick: six base models with the coat painted pure magenta and the hair pure green, and the game swaps those two colors at random. Six models, a whole city of different people.
 
-![Characters built in code, then the Meshy versions in the game](docs/characters.jpg)
+![The 19 Meshy characters of the game: the hero, the story characters, the café mentors and the regulars](docs/characters.jpg)
 
 - **Rules instead of case-by-case fixes.** Houses placed one by one kept leaving gaps and walls you could walk into. I asked for one rule for every building: the city is cut into 50 cm cells, and anything that is neither street nor water is solid. Gaps became impossible by construction.
 - **Measure instead of guessing.** I lost to a bot rated 687 while playing at 85% accuracy: our "beginner" bots were playing like 1800 players. We measured with Stockfish, taught them real beginner blunders, then recalibrated them against my chess.com level. Hundreds of bot-vs-bot games and 300 simulated careers per player profile were used to check the bots, the money and the progression (one style turned out to play 200 points above its rating).
