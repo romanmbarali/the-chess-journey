@@ -51,7 +51,7 @@ The game was built in about two weeks, from November 10 to November 24, 2026. I 
 - **Second week**: the Meshy campaign (38 props and 18 characters), a full pedagogical audit, painted menus, book cinematics, faces for the passers-by, then getting it ready to put online: saves that cannot be lost, offline play, a download cut from about 500 MB to 93 MB.
 - **Last day**: more light. The game was a night city; I asked for "almost daytime, around 5 pm", and it is now late afternoon.
 
-![The same square in Amsterdam: first render, night art direction, today](docs/evolution.jpg)
+![Amsterdam today, late afternoon, in front of the Café des maîtres](docs/amsterdam-today.jpg)
 
 **The method**
 
